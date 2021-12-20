@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(50, 50, 50) !important;
+  color: white !important;
+}
+
+.main {
+  color: rgb(10, 10, 10);
+  position: absolute;
+  background-color: #fff;
+  box-shadow: 2px 2px 2px 2px #101010;
+  top: 35%;
+  left: 25%;
+  width: 50%;
+  padding: 1%;
+}
+
+.modalButton {
+  position: relative;
+  margin-left: 45%;
+}
+
+table {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}

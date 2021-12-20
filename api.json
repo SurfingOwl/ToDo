@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "name": "Modif",
+      "desc": "Ajout d'un bouton de modif",
+      "state": "A faire",
+      "id": 1
+    },
+    {
+      "name": "Supp",
+      "desc": "Ajout d'un bouton de modification",
+      "state": "A faire",
+      "id": 2
+    },
+    {
+      "name": "Style",
+      "desc": "Stylisé un peu l'app",
+      "state": "Finie",
+      "id": 3
+    }
+  ]
+}
