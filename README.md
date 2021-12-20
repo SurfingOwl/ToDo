@@ -1,10 +1,10 @@
 # ToDo
-A simple React &amp; Json-server todo list app. \n
-Use terminal command "npm start". \n
+A simple React &amp; Json-server todo list app. 
+Use terminal command "npm start". 
 
 # Needs Json-Server
-"npm i -g json-server". \n
-Use terminal command "npm run dev-server". \n
+"npm i -g json-server". 
+Use terminal command "npm run dev-server". 
 
 # Needs Bootstrap-React
 "npm i react-bootstrap bootstrap@5.1.3"
